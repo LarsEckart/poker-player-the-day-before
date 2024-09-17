@@ -1,7 +1,7 @@
 import express from 'express';
 import Player from './Player';
 
-const VERSION = "copilot pair check";
+const VERSION = "copilot pair and high cards";
 
 const app = express();
 const player = new Player();

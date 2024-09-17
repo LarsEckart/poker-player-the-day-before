@@ -1,5 +1,5 @@
 import express from 'express';
-import { Player } from './Player';
+import Player from './Player';
 
 const VERSION = "copilot pair check";
 
